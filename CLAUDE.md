@@ -2,6 +2,8 @@
 
 Fork of [EasyTrace5000](https://github.com/RicardoJCMarques/Eltryus_CAM). No contributions back upstream.
 
+**Minimize changes to upstream files.** Prefer adding new files over modifying existing ones. Every upstream file touched is a future merge conflict.
+
 ## Versioning
 
 `vX.Y.Z-et9k.N` — upstream version + fork counter. Reset N to 1 after each upstream merge.
