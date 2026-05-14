@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-   
+
    <url>
-      <loc>https://cam.eltryus.design/</loc>
-      <lastmod>2026-04-12</lastmod>
+      <loc>https://shadyeip.github.io/EasyTrace9000/</loc>
+      <lastmod>2026-05-14</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
       <image:image>
-         <image:loc>https://cam.eltryus.design/images/social-preview.jpg</image:loc>
-         <image:title>EasyTrace5000 PCB CAM Workspace</image:title>
+         <image:loc>https://shadyeip.github.io/EasyTrace9000/images/social-preview.jpg</image:loc>
+         <image:title>EasyTrace9000 PCB CAM Workspace</image:title>
       </image:image>
    </url>
 
    <url>
-      <loc>https://cam.eltryus.design/easytrace5000/</loc>
-      <lastmod>2026-05-01</lastmod>
+      <loc>https://shadyeip.github.io/EasyTrace9000/easytrace5000/</loc>
+      <lastmod>2026-05-14</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
-   
+
    <url>
-      <loc>https://cam.eltryus.design/easytrace5000/doc/</loc>
-      <lastmod>2026-04-12</lastmod>
+      <loc>https://shadyeip.github.io/EasyTrace9000/easytrace5000/doc/</loc>
+      <lastmod>2026-05-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://cam.eltryus.design/easytrace5000/doc/cnc</loc>
-      <lastmod>2026-03-07</lastmod>
+      <loc>https://shadyeip.github.io/EasyTrace9000/easytrace5000/doc/cnc</loc>
+      <lastmod>2026-05-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
 
    <url>
-      <loc>https://cam.eltryus.design/easytrace5000/doc/laser</loc>
-      <lastmod>2026-03-07</lastmod>
+      <loc>https://shadyeip.github.io/EasyTrace9000/easytrace5000/doc/laser</loc>
+      <lastmod>2026-05-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
 
    <url>
-      <loc>https://cam.eltryus.design/easytrace5000/doc/accessibility</loc>
-      <lastmod>2026-03-07</lastmod>
+      <loc>https://shadyeip.github.io/EasyTrace9000/easytrace5000/doc/accessibility</loc>
+      <lastmod>2026-05-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>

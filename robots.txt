@@ -1,8 +1,8 @@
-# EasyTrace5000 - robots.txt
+# EasyTrace9000 - robots.txt
 
 User-agent: *
 Disallow: /*LICENSE$
 Allow: /
 
 # Primary sitemap
-Sitemap: https://cam.eltryus.design/sitemap.xml
+Sitemap: https://shadyeip.github.io/EasyTrace9000/sitemap.xml
